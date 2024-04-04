@@ -1,3 +1,6 @@
+
+lista zadań:
+=======
 ###### GEOINFORMATYKA RZĄDZI OH YEAHHHHHH'
 
 # md
