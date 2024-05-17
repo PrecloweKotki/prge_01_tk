@@ -4,6 +4,7 @@ const lista_uzytkownikow = [
   { imie: "Marek" },
   { imie: "Wika" },
   { imie: "Kinia" },
+  { imie: "Bart" },
 ];
 
 function App() {
